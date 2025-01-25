@@ -1,36 +1,35 @@
 <div align="center">
-  <img src="" alt="Progresso Logo" width="100%"  />
-  <h1>Progresso AI⚡</h1>
+<!--   <img src="" alt="Progresso Logo" width="100%"  /> -->
+  <h1>Crunch🥕</h1>
   <p><strong>A modern webapp to revolutionize workplace learning by tailoring experiences to individual needs along with personalized courses and AI generated flashcard quizzes.</strong></p>
-  <a href="https://progresso-ai.vercel.app/">Visit Progresso AI</a>
+  <a href="#">Visit Crunch</a>
 </div>
 
 ## Overview
 
-Progresso AI is a fully responsive and comprehensive webapp designed to explore how AI can be leveraged to create learning environments that adapt dynamically to each user's progress, preferences, and goals. It has systems that offer personalized recommendations, track individual progress, and help organizations deliver impactful, learner-specific training.
+Crunch transform traditional workflows into streamlined, data-driven processes. With our Restaurant Management POS Software, eateries gain tools for efficient inventory, staffing, and order management—all from one intuitive platform.
 
 ## Key Features
 
-- *Personalized AI Courses*
+- *User-Friendly Interface for QR Menu*
 
-  - Instant capture of user insights
-  - Responsive embedded widget
+  - Customizable menus (real-time updates)
+  - Food images and descriptions
 
-- *Advanced Analytics*
+- *Table Availability View*
 
-  - Trend analysis and insights
-  - Comprehensive reporting dashboard
+  - Table Availability View
+  - Plan visits based on crowd size and availability
 
-- *AI Generated Quiz Flashcards*
+- *Admin Dashboard Insights*
 
-  - Knowledge Check
+  - Real-time sales data and performance metrics
   - Animations
 
-- *Course Leaderboard*
+- *Customer Experience Features*
 
-  - Rewards & achievements
-  - Trend analysis and insights
-  - Comprehensive reporting dashboard
+  - Ratings and feedback
+  - 
 
 - *Robust Infrastructure*
 
@@ -54,28 +53,17 @@ Progresso AI is a fully responsive and comprehensive webapp designed to explore 
 | React        | User interface          |
 | Next.js      | Full-stack framework    |
 | Tailwind CSS | Styling                 |
-| Zustand      | State management        |
-| Zod          | Schema Validation       |
 | PostgreSQL   | Persistent data storage |
 | Prisma       | Caching and performance |
-| Google Gemini| AI and Personalization  |
+| WebSockets   | Real Time Availability  |
 
 ## 📦 Key Commands
 
 | Command           | Description              |
 | ----------------- | ------------------------ |
-| pnpm run dev    | Start development server |
-| pnpm run build  | Create production build  |
-| pnpm run start  | Launch production server |
-| pnpm run lint   | Run code linting         |
-| pnpm run format | Prettier Format          |
-
-
-## 📊 System Architecture
-
-<div align="center">
-  <img src="" alt="System Architecture" width="100%" />
-</div>
+| pnpm run dev      | Start development server |
+| pnpm run build    | Create production build  |
+| pnpm run start    | Launch production server |
 
 ## 🚀 Getting Started
 
