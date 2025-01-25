@@ -1,13 +1,13 @@
 <div align="center">
 <!--   <img src="" alt="Progresso Logo" width="100%"  /> -->
-  <h1>Crunch🥕</h1>
+  <h1>Qrunch🥕</h1>
   <p><strong>By harnessing the power of automation, contactless digital menus, and real-time order tracking, we bring a smarter, faster, and more efficient approach to dining.</strong></p>
-  <a href="#">Visit Crunch</a>
+  <a href="#">Visit Qrunch</a>
 </div>
 
 ## Overview
 
-Crunch transform traditional workflows into streamlined, data-driven processes. With our Restaurant Management POS Software, eateries gain tools for efficient inventory, staffing, and order management—all from one intuitive platform.
+Qrunch transform traditional workflows into streamlined, data-driven processes. With our Restaurant Management POS Software, eateries gain tools for efficient inventory, staffing, and order management—all from one intuitive platform.
 
 ## Key Features
 
