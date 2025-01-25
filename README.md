@@ -44,7 +44,7 @@ Crunch transform traditional workflows into streamlined, data-driven processes. 
 
 ## 🛠 Tech Stack
 
-![Technologies](https://img.shields.io/badge/stack-TypeScript%20%7C%20React%20%7C%20Next.js%20%7C%20Tailwind%20%7C%20PostgreSQL%20%7C%20Redis-blue)
+![Technologies](https://img.shields.io/badge/stack-TypeScript%20%7C%20React%20%7C%20Next.js%20%7C%20Tailwind%20%7C%20PostgreSQL%20%7C)
 
 | Technology   | Purpose                 |
 | ------------ | ----------------------- |
