@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="" alt="Progresso Logo" width="100%"  /> -->
   <h1>Crunch🥕</h1>
-  <p><strong>A modern webapp to revolutionize workplace learning by tailoring experiences to individual needs along with personalized courses and AI generated flashcard quizzes.</strong></p>
+  <p><strong>By harnessing the power of automation, contactless digital menus, and real-time order tracking, we bring a smarter, faster, and more efficient approach to dining.</strong></p>
   <a href="#">Visit Crunch</a>
 </div>
 
