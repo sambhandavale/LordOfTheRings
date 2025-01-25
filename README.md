@@ -29,13 +29,12 @@ Crunch transform traditional workflows into streamlined, data-driven processes. 
 - *Customer Experience Features*
 
   - Ratings and feedback
-  - 
+  - Personalized Restaurant recommendations
 
 - *Robust Infrastructure*
 
   - PostgreSQL for reliable data storage
   - Enterprise-level scalability
-  - Google Gemini for AI
 
 - *Developer-Friendly*
   - Easy website integration
